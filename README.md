@@ -1,2 +1,2 @@
 # PRO-II
-Improving my C code
+Programming II
